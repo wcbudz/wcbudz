@@ -6,5 +6,4 @@ I learned the deepest of the deep on human motivation from the creators of [Self
 Find me on <a rel="me" href="https://twitter.com/atomeater">Twitter</a>
 or <a rel="me" href="https://linkedin.com/in/walterbudzian">LinkedIn</a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=waltercornelius&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=waltercornelius&redirect=true)
 
